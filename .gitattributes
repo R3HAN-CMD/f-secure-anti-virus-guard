@@ -1,0 +1,8 @@
+# Text file normalization 
+# Generated on 2026-11-10 
+docs/* linguist-vendored
+*.map linguist-generated
+
+*.json linguist-detectable=false
+
+*.ts linguist-detectable
