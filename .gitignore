@@ -1,0 +1,6 @@
+coverage/
+.pnpm-store/
+npm-debug.log*
+.cache/
+node_modules/
+.next/
